@@ -52,7 +52,7 @@ const App = () => {
             }
           </div>
         ) : (
-          <div className='empty'>
+          <div className='empty'>``
             <h2>No Movies Found</h2>
           </div>
         )
